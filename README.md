@@ -7,4 +7,4 @@ Hello, I'm Nursyamimi Binti Subni, an enthusiastic individual with a strong pass
 - 🧠  I'm learning Python language and doing Final Year Project in UTM.
 
 ## Skills
-C++ Java Pyhton
+C++ Java Python
